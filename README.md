@@ -22,16 +22,16 @@ https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1
 
 Running the Preprocessing.py
 
-```python
+```
 python Preprocessing.py
 ```
 
 #### Model training and Predection
 
 Running the Training & predection.py
-```python
+```
 python Training & predection.py
-```python
+```
 hyperparameters like learning rate and Focal Tverskey loss parameters apla and beta varies over 50 epochs for swift convergence.
 
 #### Model training and Predection
