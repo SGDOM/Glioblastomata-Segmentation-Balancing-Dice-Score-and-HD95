@@ -194,7 +194,7 @@ valid_generator = generate.VolumeDataGenerator(config["valid"],
                                             verbose=0)
 
 steps_per_epoch = 
-n_epochs = 50
+n_epochs = 
 validation_steps = 
 
 history = model.fit_generator(generator=train_generator,
