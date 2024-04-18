@@ -8,7 +8,7 @@ Install the requirements.txt dependencies
 pip install -r requirements.txt
 ```
 
-## Model Training
+## Model Training and Predection
 Dataset preparation
 
 #### Download dataset
@@ -18,16 +18,16 @@ https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1
 
 
-#### Dataset preprocessing
+#### Dataset preprocessing and Required functions
 
-Running the data_progress.py
+Running the Preprocessing.py
 
 ```python
-python data_progress.py
+python Preprocessing.py
 ```
 
-#### Model training
+#### Model training and Predection
 
-Running the train.py
+Running the Training & predection.py
 
-#### Simulation results and Ensembling Appoarch
+#### Simulation results
