@@ -8,7 +8,7 @@ Install the requirements.txt dependencies
 pip install -r requirements.txt
 ```
 
-## Model Training and Predection
+## Model Training and prediction
 Dataset preparation
 
 #### Download dataset
@@ -26,13 +26,13 @@ Running the Preprocessing.py
 python Preprocessing.py
 ```
 
-#### Model training and Predection
+#### Model training and prediction
 
-Running the Training & predection.py
+Running the Training & prediction.py
 ```
-python Training & predection.py
+python Training & prediction.py
 ```
 hyperparameters like learning rate and Focal Tverskey loss parameters apla and beta varies over 50 epochs for swift convergence.
 
-#### Model training and Predection
+#### Simulation Results
 Simulation findings and complexity evaluation are disclosed subsequent to the paper's publication.
