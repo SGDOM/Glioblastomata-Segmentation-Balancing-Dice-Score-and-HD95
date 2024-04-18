@@ -30,7 +30,9 @@ python Preprocessing.py
 
 Running the Training & predection.py
 ```python
-python Training & predection.py       (hyper parameter like learning rate and Focal Tverskey loss parameters apla and beta varies over 50 epoch for swift convergence)
-```
+python Training & predection.py
+```python
+hyperparameters like learning rate and Focal Tverskey loss parameters apla and beta varies over 50 epochs for swift convergence
+
 
 #### Simulation results
