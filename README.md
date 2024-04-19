@@ -13,9 +13,10 @@ Dataset preparation
 
 #### Download dataset
 
-https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
+BraTS 2021:http://braintumorsegmentation.org/. 
 
-https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1
+BraTS 2020: https://www.med.upenn.edu/cbica/brats2020/data.html
+
 
 
 #### Dataset preprocessing and Load required functions
