@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Model Training and prediction
 Dataset preparation
 
-#### Download dataset
+#### Datasets
 
 BraTS 2021:http://braintumorsegmentation.org/. 
 
