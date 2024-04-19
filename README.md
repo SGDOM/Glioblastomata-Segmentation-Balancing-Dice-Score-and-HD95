@@ -33,7 +33,7 @@ Running the Training & prediction.py
 ```
 python Training & prediction.py
 ```
-hyperparameters like learning rate and Focal Tverskey loss parameters apla and beta varies over 50 epochs for swift convergence.
+hyperparameters like learning rate and Focal Tverskey loss parameters varies over 50 epochs for swift convergence.
 
 #### Simulation Results
 Simulation findings and complexity evaluation are disclosed subsequent to the paper's publication.
